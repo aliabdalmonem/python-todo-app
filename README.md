@@ -27,7 +27,9 @@ python main.py
 
 📸 Screenshot
 
-Add a screenshot here after running the program.
+## 📸 Screenshot
+
+![Todo App](images/Screenshot_20260709_105259_com_termux_TermuxActivity.jpg)
 
 Example:
 
